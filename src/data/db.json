@@ -1,0 +1,19 @@
+{
+    "products": [
+    {
+    "image": "https://cdn.awsli.com.br/600x450/237/237332/produto/30649363/fbf3c1b1fc.jpg",
+    "name": "Coleira",
+    "price": 59.9
+    },
+    {
+    "image": "https://cdn.awsli.com.br/600x450/237/237332/produto/30649363/fbf3c1b1fc.jpg",
+    "name": "Calça vermelha",
+    "price": 90
+    },
+    {
+    "image": "https://cdn.awsli.com.br/600x450/237/237332/produto/30649363/fbf3c1b1fc.jpg",
+    "name": "Boné aba reta",
+    "price": 29.9
+    }
+    ]
+    }

@@ -1,0 +1,174 @@
+.site {
+  background-color: #1a1a1a;
+}
+
+img{
+  width: 600px;
+  object-fit: cover;
+  height: 500px;
+}
+.textoc{
+  color: black;
+}
+.imgcard{
+  width: 286px;
+  height: 180px;
+}
+.prods{
+  margin-bottom: 30px;
+  margin: 20px;
+}
+.produto{
+  display: flex;
+  justify-content: center;
+}
+.cab{
+  background-color:bisque;
+}
+.conteudosobre{
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.sobre{
+  color: darkgray;
+}
+.conts{
+  margin-top: 15px;
+  display: flex;
+}
+.conts2{
+  margin-top: 15px;
+  display: flex;
+}
+.txts{
+  color: white;
+  width: 50%;
+  margin: 10px;
+}
+.txts2{
+  color: white;
+  width: 50%;
+  margin: 10px;
+  text-align: right;
+}
+.imgs{
+  width: 600px;
+  height: 600px;
+}
+.ps{
+  font-size: 18px;
+}
+.formulario{
+  margin-right: 100px;
+  width: 45%;
+}
+.contc{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 60px;
+  display: flex;
+  margin-bottom:300px;
+  color: white;
+}
+
+.redesmaluca {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column ;
+}
+
+.iconteste {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.iconessoltos {
+  transition: .3s;
+}
+
+.iconessoltos:hover {
+  transform: scale(1.1);
+}
+
+.icone{
+  width: 40px;
+  height: 40px;
+}
+.produtocont{
+  display: flex;
+  justify-content: center;
+}
+
+.text-center {
+  color: aliceblue;
+}
+
+
+
+/* footerteste */
+.footer-basic {
+  padding:40px 0;
+  background-color:#000000;
+  color:#cad1d8;
+}
+
+.footer-basic ul {
+  padding:0;
+  list-style:none;
+  text-align:center;
+  font-size:18px;
+  line-height:1.6;
+  margin-bottom:0;
+}
+
+.footer-basic li {
+  padding:0 10px;
+}
+
+.footer-basic ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity:1;
+}
+
+.footer-basic .social {
+  text-align:center;
+  padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin:0 8px;
+  color:inherit;
+  opacity:0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity:0.9;
+}
+
+.footer-basic .copyright {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
+
